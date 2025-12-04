@@ -1,0 +1,12 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+.DS_Store
+.git
+.gitignore
+mutopia_a4_pdfs
+*.log
+.env

@@ -1,0 +1,21 @@
+# Environments
+.venv/
+.env
+.env.docker
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Editors/OS
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Generated assets
+mutopia_a4_pdfs/
